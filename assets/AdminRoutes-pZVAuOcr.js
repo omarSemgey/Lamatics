@@ -1,0 +1,1 @@
+import{u as s,r,j as o,O as e}from"./vendor-react-CtwO7XYP.js";import{u as t}from"./useGetUserRole-CV3oHW8J.js";import{L as a}from"./index-C89luORy.js";import"./vendor-Bb-fZBls.js";import"./vendor-katex-7i1KP8HX.js";function n(){const{role:n,isLoading:i}=t(),u=s();return r.useEffect((()=>{i||2===n||u("/")}),[i,n,u]),i?o.jsx(a,{}):2===n?o.jsx(e,{}):null}export{n as default};
